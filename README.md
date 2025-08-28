@@ -99,6 +99,7 @@ graph TD
 ├── pyproject.toml           # Project dependencies
 └── README.md                # You are here!```
 
+```
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
